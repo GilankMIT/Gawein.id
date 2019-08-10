@@ -1,0 +1,47 @@
+/* Toyib CSS */
+
+div#side-bar {
+    background-color: rgba(142,228,175,0.4);
+}
+
+#side-bar a {
+    text-decoration: none;
+    color: #000;
+}
+
+#bangunRumah ul li a {
+    text-decoration: none;
+    list-style-type: circle;
+}
+
+#pertanian ul li a {
+	list-style-type: circle;
+}
+
+#servisElektronik ul li a{
+	list-style-type: circle;
+}
+
+h1.title {
+	border-bottom: 1px solid #ddd !important;
+}
+
+h5.title {
+	border-bottom: 1px solid #ddd !important;
+}
+
+img#profile {
+	height: 150px; 
+	width : auto;
+	padding: 5px;
+	margin-top: -15px;
+	margin-bottom: 20px;
+}
+
+.row #box1 {
+	padding: 20px;
+}
+
+#box-shadow {
+    box-shadow: 10px 10px;
+}

@@ -1,0 +1,10 @@
+/* Landing Page Style */
+.home {
+	min-height: 100vh;
+	background-image: url(../asset/images/home-background.png);
+	color: #888;
+}
+.home .home-container {
+	
+}
+/* End Landing Page Style */

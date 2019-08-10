@@ -1,0 +1,110 @@
+/* LIST PEKERJA STYLE */
+/* Header List Pekerja Style */
+.header-container {
+	background-color: #53AD7B;
+	box-shadow: 0px 0px 10px #379683;
+	margin-bottom: 30px;
+}
+.header-container .header-brand {
+	text-align: center;
+}
+.header-container .header-search {
+	margin-top: 20px;
+}
+.header-container .header-search .search {
+	cursor: pointer;
+}
+.header-container .header-login {
+	text-align: center;
+	margin-top: 25px;
+}
+.header-container .header-login a {
+	font-size: 18px;
+	color: black;
+	margin: auto 10px;
+	text-decoration: none;
+}
+.header-container .header-login a:hover {
+	font-size: 18px;
+	color: #EDF5E1;
+	margin: auto 10px;
+	text-decoration: none;
+}
+/* End Header Style */
+
+/* Section List Pekerja Style */
+.section-kriteria-pekerja {
+	padding: 20px 2px;
+	background-color: rgba(142,228,175,0.4);
+	box-shadow: 0px 0px 5px #379683;
+	border-radius: 5px;
+}
+.section-kriteria-pekerja h4 {
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+.section-kriteria-pekerja input[type=text] {
+	margin: 15px 0px 15px 0px;
+}
+.section-kriteria-pekerja button {
+	margin: 20px 0px 15px 0px;
+	padding: 10px 0px;
+	background-color: #1E7941;
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+}
+.section-kriteria-pekerja button:hover {
+	background-color: #5CDB95;
+}
+
+.section-pekerja {
+	padding: 5px 0px 20px;
+	margin-bottom: 30px;
+	border: 1px solid #8EE4AF;
+	border-radius: 3px;
+}
+.section-pekerja h3 {
+	margin: 15px 0px 14px;
+	color: #022810;
+	text-decoration: underline;
+	line-height: 20px;
+}
+.section-pekerja h4 {
+	margin: 15px 0px 12px;
+	color: #022810;
+	text-decoration: underline;
+	line-height: 23px;
+}
+.section-pekerja a {
+	color: #257a44;
+	line-height: 23px;
+}
+.section-pekerja a:hover {
+	color: #49a269;
+	text-decoration: none;
+}
+/* End Section List Pekerja Style */
+
+
+.footer-container {
+	margin-top: 30px;
+	padding: 10px 0px 30px 0px;
+	background-color: #31794B;
+	box-shadow: 0px 0px 15px #396549;
+}
+.footer-container h3 {
+	font-weight: bold;
+	color: #154229;
+}
+.footer-container ul {
+	list-style: none;
+	padding: 0px 0px;
+}
+.footer-container p {
+	color: #7fD0A3;
+}
+.footer-container ul li a, .footer-container p a {
+	color: #5CDB95;
+}
